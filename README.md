@@ -54,4 +54,4 @@ Special thanks to:
 
 ## 📝 License
 
-This project was inspired and aproved by [Microverse](https://www.microverse.org).
+<!-- This project was inspired and aproved by [Microverse](https://www.microverse.org). -->
